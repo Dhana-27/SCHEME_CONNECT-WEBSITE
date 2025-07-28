@@ -8,7 +8,7 @@ import { Scheme, UserProfile, WorkflowStep } from './types';
 
 // D-Purpose Foundation Theme Colors
 const theme = {
-  primary: '#6B46C1', // Deep Purple
+  primary: '#0A400C', // Deep Purple
   secondary: '#EC4899', // Pink
   accent: '#10B981', // Emerald
   warning: '#F59E0B', // Amber
